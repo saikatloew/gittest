@@ -2,6 +2,7 @@
 
 
 cat /etc/redhat-release
+cat /etc/redhat-release
  
 
 
